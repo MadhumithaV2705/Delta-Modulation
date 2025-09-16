@@ -66,4 +66,3 @@ plt.show()
 
 # Results
 The Construction and Re-construction of delta modulation using python are verified.
-# Hardware experiment output waveform.
